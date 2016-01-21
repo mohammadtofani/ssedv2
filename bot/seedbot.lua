@@ -225,7 +225,7 @@ function create_config( )
     sudo_users = {138342554},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = 
+    about_text =[[ 
      SUDO Users @ADKING_BOTv3
     ,
     help_text_realm = [[
